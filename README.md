@@ -16,4 +16,3 @@ The available "child" models are:
 
 - XResNet 18/35/50/101/152 (vanilla ResNet with improvement from the paper[Bag of Tricks for Image Classification with Convolutionnal Neural Networks](https://arxiv.org/abs/1812.01187))
 - Wide ResNet 40-2 from the paper [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
-- 
