@@ -14,5 +14,11 @@ Additional resources used:
 
 The available "child" models are:
 
-- XResNet 18/35/50/101/152 (vanilla ResNet with improvement from the paper[Bag of Tricks for Image Classification with Convolutionnal Neural Networks](https://arxiv.org/abs/1812.01187))
-- Wide ResNet 40-2 from the paper [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
+- XResNet 18, 34, 50, 101 and 152 (vanilla ResNet with improvement from the paper [Bag of Tricks for Image Classification with Convolutionnal Neural Networks](https://arxiv.org/abs/1812.01187))
+- Wide ResNet 40-2 and 28-10 from the paper [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
+- Shake-Shake ResNet from the paper [Shake-Shake Regularization](https://arxiv.org/abs/1705.07485)
+- Shake-Drop 
+
+TODO: 
+- Wide ResNet / Shake-thing with X ResNet ?
+- ResNeXt ?
