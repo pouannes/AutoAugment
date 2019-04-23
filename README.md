@@ -1,2 +1,3 @@
 # DL-paper-implementations
-My own implementation of Deep Learning papers
+
+My own implementation of some Deep Learning papers
